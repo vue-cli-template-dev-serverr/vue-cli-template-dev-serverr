@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      os-info-checker-es6:
+        specifier: ^1.0.7
+        version: 1.0.7
+
+packages:
+
+  os-info-checker-es6@1.0.7:
+    resolution: {integrity: sha512-oyLte+NLy1WUHVPv1Ag6P37z6JbTas4w2j2tBt/Ojl6Mk/I3sxn7IrCxocHwqqjqucVHRfyC8BKdVQTEOVxSRw==}
+
+snapshots:
+
+  os-info-checker-es6@1.0.7: {}
