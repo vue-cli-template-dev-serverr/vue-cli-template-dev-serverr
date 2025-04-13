@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-template-dev-serverr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "development server for vue.js custom template projects",
   "bin": "bin/server.sh",
