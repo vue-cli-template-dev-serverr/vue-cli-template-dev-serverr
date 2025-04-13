@@ -1,4 +1,4 @@
-# vue-cli-template-dev-server
+# vue-cli-template-dev-serverr
 
 *development server for building vue-cli custom templates*
 
@@ -29,7 +29,7 @@ and run `npm run dev` (you can customize which command will run instead of `dev`
 - install via NPM:
   
   ```sh
-  npm i vue-cli-template-dev-server -D
+  npm i vue-cli-template-dev-serverr -D
   ```
 
 - add these bits:
@@ -39,7 +39,7 @@ and run `npm run dev` (you can customize which command will run instead of `dev`
   ```json5
   {
     "scripts": {
-      "dev": "vue-cli-template-dev-server"
+      "dev": "vue-cli-template-dev-serverr"
     },
   }
   ```
@@ -75,7 +75,7 @@ npm run dev -- 'dist/dev-server-out' 'my-app'
 ```json5
 {
   "scripts": {
-    "dev": "vue-cli-template-dev-server 'dist/dev-server-out' 'my-app'"
+    "dev": "vue-cli-template-dev-serverr 'dist/dev-server-out' 'my-app'"
   },
 }
 ```
@@ -107,13 +107,13 @@ to see it in action:
   ```sh
   cd <workspace-path>
   #   ^ replace this with your local workspace directory
-  git clone https://github.com/eliranmal/vue-cli-template-dev-server.git
+  git clone https://github.com/vue-cli-template-dev-serverr/vue-cli-template-dev-serverr.git
   ```
 
 - navigate to the demo, and ignite the engines:
   
   ```sh
-  cd <workspace-path>/vue-cli-template-dev-server/example
+  cd <workspace-path>/vue-cli-template-dev-serverr/example
   #   ^ you know the drill
   npm start
   ```
